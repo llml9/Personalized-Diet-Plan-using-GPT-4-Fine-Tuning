@@ -4,7 +4,7 @@ import os
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "add your api key"
 
 
 
