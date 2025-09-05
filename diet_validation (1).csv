@@ -1,0 +1,2228 @@
+Age,Gender,Weight_kg,Height_cm,BMI,Disease_Type,Severity,Physical_Activity_Level,Dietary_Restrictions,Allergies,Preferred_Cuisine,Personalized_Diet_Plan
+42,Male,70.7,178,22.3,Hypertension,Moderate,Moderate,Low_Sugar,Peanuts,Chinese,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+53,Female,53.0,196,13.8,,Mild,Sedentary,Low_Sodium,Gluten,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+78,Female,95.2,194,25.3,,Severe,Active,,Peanuts,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+27,Female,65.7,194,17.5,Hypertension,Moderate,Sedentary,,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+78,Female,67.8,198,17.3,Diabetes,Moderate,Sedentary,,,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+41,Male,66.3,185,19.4,Hypertension,Moderate,Active,,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+72,Female,110.5,191,30.3,Diabetes,Mild,Sedentary,Low_Sodium,Peanuts,Indian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+65,Male,78.0,158,31.2,Obesity,Moderate,Moderate,Low_Sugar,Peanuts,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+62,Female,57.4,168,20.3,,Severe,Sedentary,Low_Sodium,Peanuts,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+18,Male,63.2,199,16.0,,Moderate,Active,Low_Sodium,Gluten,Indian,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+62,Male,58.0,195,15.3,Hypertension,Moderate,Moderate,,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+24,Male,76.9,195,20.2,Obesity,Severe,Sedentary,,Peanuts,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+31,Male,66.7,158,26.7,,Moderate,Moderate,Low_Sugar,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+30,Female,59.2,190,16.4,,Mild,Sedentary,,Gluten,Indian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+29,Male,94.6,175,30.9,,Mild,Active,Low_Sugar,Peanuts,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+50,Female,96.4,198,24.6,Diabetes,Moderate,Active,Low_Sugar,,Mexican,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+73,Male,112.7,174,37.2,Diabetes,Severe,Moderate,Low_Sugar,Peanuts,Mexican,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+37,Female,108.8,162,41.5,Diabetes,Moderate,Moderate,Low_Sugar,,Mexican,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+29,Male,67.7,199,17.1,Hypertension,Moderate,Moderate,Low_Sugar,Peanuts,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+50,Female,79.3,153,33.9,Hypertension,Severe,Active,Low_Sugar,Peanuts,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+79,Male,60.5,185,17.7,Obesity,Mild,Sedentary,Low_Sodium,,Italian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+54,Female,55.2,182,16.7,Hypertension,Moderate,Active,,Peanuts,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+54,Female,111.9,189,31.3,Hypertension,Mild,Moderate,,Peanuts,Italian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+74,Male,107.1,151,47.0,Diabetes,Severe,Sedentary,,,Chinese,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+49,Female,72.5,170,25.1,Obesity,Mild,Moderate,Low_Sodium,Peanuts,Mexican,"This is a customized plan based on your profile:
+low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+56,Male,67.3,177,21.5,,Moderate,Sedentary,Low_Sodium,Gluten,Indian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+79,Female,53.1,172,17.9,Hypertension,Moderate,Active,,,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+47,Female,80.0,186,23.1,,Mild,Active,Low_Sugar,Peanuts,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+23,Female,52.0,167,18.6,Hypertension,Severe,Active,Low_Sodium,Peanuts,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+70,Female,89.6,170,31.0,Hypertension,Severe,Moderate,Low_Sugar,Peanuts,Chinese,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+28,Female,104.3,182,31.5,Diabetes,Moderate,Active,Low_Sodium,Peanuts,Indian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+41,Male,82.6,187,23.6,Obesity,Mild,Moderate,,Peanuts,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+78,Male,67.1,191,18.4,Diabetes,Moderate,Moderate,Low_Sugar,Peanuts,Chinese,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+64,Female,95.8,161,37.0,Hypertension,Mild,Active,Low_Sugar,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+22,Female,66.4,171,22.7,,Mild,Moderate,,,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+49,Female,66.1,183,19.7,Diabetes,Moderate,Moderate,,Peanuts,Mexican,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+41,Female,50.0,188,14.1,,Severe,Sedentary,Low_Sugar,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+30,Female,93.2,178,29.4,Hypertension,Severe,Sedentary,Low_Sodium,,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+70,Male,62.5,175,20.4,Diabetes,Mild,Active,,,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+26,Female,116.9,197,30.1,Diabetes,Moderate,Sedentary,Low_Sugar,Gluten,Indian,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+77,Female,103.7,165,38.1,Obesity,Mild,Active,Low_Sugar,,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+35,Male,110.2,182,33.3,Obesity,Severe,Moderate,Low_Sodium,Gluten,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+69,Female,95.7,163,36.0,Obesity,Mild,Moderate,Low_Sodium,Peanuts,Italian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+63,Female,77.9,184,23.0,,Moderate,Moderate,,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+49,Female,100.7,163,37.9,Obesity,Severe,Moderate,,,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+66,Female,96.9,163,36.5,Hypertension,Moderate,Sedentary,Low_Sugar,,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+58,Female,64.7,193,17.4,Hypertension,Moderate,Moderate,Low_Sugar,Peanuts,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+40,Female,73.3,161,28.3,,Mild,Moderate,Low_Sugar,Gluten,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+68,Female,115.9,198,29.6,,Moderate,Moderate,Low_Sugar,,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+30,Male,65.5,151,28.7,,Moderate,Moderate,,Gluten,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+22,Male,100.7,182,30.4,Diabetes,Mild,Active,Low_Sugar,Peanuts,Indian,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+67,Male,76.3,164,28.4,Obesity,Moderate,Moderate,Low_Sugar,Gluten,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+71,Male,64.7,164,24.1,Hypertension,Mild,Active,,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+64,Male,68.5,186,19.8,,Severe,Moderate,Low_Sodium,Peanuts,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+41,Male,101.6,170,35.2,,Severe,Active,Low_Sugar,Gluten,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+50,Male,50.0,156,20.5,,Moderate,Sedentary,,Gluten,Indian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+62,Female,118.2,176,38.2,Hypertension,Moderate,Moderate,Low_Sodium,Peanuts,Italian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+36,Male,95.1,163,35.8,Hypertension,Mild,Moderate,Low_Sugar,,Chinese,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+70,Male,56.4,154,23.8,Diabetes,Moderate,Active,Low_Sugar,Peanuts,Mexican,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+52,Male,56.7,152,24.5,Diabetes,Mild,Moderate,Low_Sugar,,Mexican,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+70,Female,52.9,169,18.5,Diabetes,Severe,Sedentary,Low_Sodium,,Italian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+20,Male,113.7,197,29.3,,Severe,Active,,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+19,Female,67.9,172,23.0,Hypertension,Mild,Moderate,Low_Sugar,,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+30,Female,71.8,182,21.7,Hypertension,Severe,Active,,,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+70,Female,117.3,180,36.2,,Moderate,Sedentary,,,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+50,Male,89.5,166,32.5,Hypertension,Moderate,Active,,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+22,Female,90.1,170,31.2,Hypertension,Moderate,Moderate,Low_Sodium,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+78,Female,89.1,181,27.2,Diabetes,Severe,Sedentary,Low_Sodium,Gluten,Chinese,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+70,Male,78.1,181,23.8,,Mild,Active,,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+49,Male,71.1,173,23.8,Hypertension,Moderate,Moderate,Low_Sodium,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+25,Male,69.7,160,27.2,Obesity,Severe,Sedentary,Low_Sugar,Peanuts,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+20,Female,86.5,196,22.5,Obesity,Mild,Sedentary,Low_Sugar,,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+34,Female,69.0,196,18.0,,Mild,Moderate,,Gluten,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+74,Female,85.0,184,25.1,,Mild,Sedentary,,Gluten,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+18,Female,88.7,191,24.3,Diabetes,Mild,Sedentary,,Gluten,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+54,Female,92.9,168,32.9,Diabetes,Severe,Sedentary,Low_Sodium,Peanuts,Mexican,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+56,Female,87.3,183,26.1,,Moderate,Moderate,Low_Sugar,,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+76,Female,83.6,188,23.7,Hypertension,Mild,Sedentary,Low_Sodium,Peanuts,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+36,Male,94.8,192,25.7,Hypertension,Severe,Sedentary,,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+76,Male,111.0,166,40.3,Hypertension,Moderate,Moderate,Low_Sugar,,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+33,Female,55.6,166,20.2,Obesity,Moderate,Active,Low_Sugar,Peanuts,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+67,Female,113.3,187,32.4,Hypertension,Moderate,Active,Low_Sodium,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+19,Female,107.5,168,38.1,Obesity,Mild,Moderate,,Gluten,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+75,Male,119.2,159,47.2,Diabetes,Mild,Sedentary,Low_Sugar,Gluten,Mexican,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+33,Male,65.4,190,18.1,Hypertension,Severe,Sedentary,Low_Sodium,,Chinese,"This is a customized plan based on your profile:
+low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+75,Male,103.7,167,37.2,Hypertension,Moderate,Sedentary,,Gluten,Chinese,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+64,Male,66.6,185,19.5,Diabetes,Severe,Active,Low_Sugar,Gluten,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+67,Male,100.7,168,35.7,Obesity,Mild,Moderate,Low_Sugar,Gluten,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+66,Male,59.3,187,17.0,Diabetes,Severe,Moderate,,Peanuts,Mexican,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+37,Male,101.5,190,28.1,,Moderate,Active,Low_Sodium,,Chinese,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+37,Male,76.6,161,29.6,Hypertension,Mild,Moderate,Low_Sugar,,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+22,Male,70.2,160,27.4,,Severe,Active,Low_Sodium,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+41,Female,105.5,187,30.2,Diabetes,Moderate,Active,Low_Sodium,,Italian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+62,Male,88.0,197,22.7,Diabetes,Mild,Sedentary,,Gluten,Italian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+26,Female,104.9,156,43.1,,Mild,Moderate,Low_Sugar,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+55,Female,105.7,158,42.3,Hypertension,Mild,Active,Low_Sodium,Gluten,Mexican,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+30,Female,84.7,178,26.7,Hypertension,Mild,Moderate,Low_Sodium,,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+19,Female,84.4,177,26.9,Obesity,Severe,Moderate,Low_Sugar,,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+42,Female,118.8,173,39.7,Obesity,Mild,Active,,,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+64,Female,115.0,194,30.6,Diabetes,Severe,Moderate,Low_Sodium,Gluten,Chinese,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+40,Female,78.3,197,20.2,Obesity,Severe,Moderate,Low_Sugar,Gluten,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+40,Female,85.9,166,31.2,,Mild,Active,Low_Sodium,Gluten,Indian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+74,Male,71.0,166,25.8,Diabetes,Severe,Sedentary,Low_Sugar,Peanuts,Chinese,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+59,Female,60.2,166,21.8,,Severe,Sedentary,Low_Sodium,Gluten,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+46,Male,74.2,167,26.6,Hypertension,Mild,Sedentary,Low_Sodium,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+69,Male,90.2,197,23.2,Obesity,Moderate,Moderate,Low_Sodium,Peanuts,Mexican,"This is a customized plan based on your profile:
+low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+39,Female,83.1,179,25.9,,Moderate,Moderate,,Peanuts,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+54,Male,76.4,179,23.8,Hypertension,Moderate,Moderate,,Gluten,Chinese,"This is a customized plan based on your profile:
+low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+57,Female,116.3,187,33.3,Diabetes,Mild,Moderate,Low_Sodium,Gluten,Indian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+53,Female,51.6,160,20.2,Obesity,Moderate,Moderate,Low_Sodium,Gluten,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+53,Female,76.1,166,27.6,,Severe,Sedentary,,Gluten,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+60,Male,77.2,194,20.5,Hypertension,Moderate,Moderate,Low_Sodium,Peanuts,Italian,"This is a customized plan based on your profile:
+low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+73,Male,76.0,167,27.3,Obesity,Severe,Active,,Peanuts,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+31,Female,61.0,187,17.4,,Moderate,Sedentary,Low_Sodium,,Italian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+57,Female,68.2,190,18.9,,Moderate,Sedentary,Low_Sugar,Peanuts,Italian,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+72,Female,108.2,198,27.6,Diabetes,Severe,Moderate,Low_Sodium,,Chinese,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+44,Male,76.0,158,30.4,Hypertension,Mild,Active,Low_Sodium,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+35,Female,69.8,163,26.3,Hypertension,Moderate,Moderate,Low_Sodium,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+33,Female,91.5,194,24.3,Hypertension,Mild,Sedentary,Low_Sugar,Peanuts,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+79,Female,104.9,158,42.0,Hypertension,Mild,Moderate,Low_Sodium,Peanuts,Italian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+45,Female,85.1,183,25.4,Diabetes,Moderate,Sedentary,,Gluten,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+34,Male,117.4,157,47.6,,Severe,Sedentary,,Gluten,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+68,Female,109.4,166,39.7,,Severe,Sedentary,Low_Sodium,Gluten,Chinese,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+76,Female,83.8,162,31.9,Diabetes,Moderate,Sedentary,,,Mexican,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+50,Male,65.8,188,18.6,Hypertension,Mild,Active,,,Chinese,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+32,Female,64.4,152,27.9,Hypertension,Mild,Moderate,Low_Sugar,,Chinese,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+33,Female,74.0,168,26.2,Hypertension,Moderate,Sedentary,Low_Sugar,,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+38,Male,92.3,190,25.6,Diabetes,Severe,Moderate,Low_Sugar,Peanuts,Chinese,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+61,Male,106.8,159,42.2,Diabetes,Mild,Sedentary,,,Mexican,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+29,Male,96.7,157,39.2,Hypertension,Severe,Active,,,Mexican,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+70,Male,119.7,183,35.7,Obesity,Severe,Active,Low_Sodium,Gluten,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+36,Male,98.0,176,31.6,Hypertension,Severe,Active,Low_Sodium,Peanuts,Italian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+58,Female,55.1,176,17.8,Obesity,Moderate,Active,,,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+18,Male,72.1,160,28.2,Obesity,Moderate,Active,Low_Sugar,,Mexican,"This is a customized plan based on your profile:
+low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+62,Male,86.9,190,24.1,Obesity,Severe,Moderate,Low_Sugar,Gluten,Italian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+54,Female,53.2,151,23.3,Obesity,Severe,Active,Low_Sodium,Gluten,Mexican,"This is a customized plan based on your profile:
+low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+41,Female,113.5,164,42.2,Hypertension,Severe,Sedentary,Low_Sodium,,Mexican,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+45,Male,100.0,167,35.9,Diabetes,Severe,Active,Low_Sodium,,Chinese,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+47,Female,79.9,190,22.1,Obesity,Severe,Active,Low_Sodium,,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+37,Male,66.1,170,22.9,Hypertension,Mild,Active,Low_Sugar,Gluten,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+32,Female,73.5,155,30.6,Hypertension,Mild,Moderate,Low_Sugar,Peanuts,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+56,Female,77.7,196,20.2,,Mild,Sedentary,,,Mexican,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+43,Female,62.4,185,18.2,Hypertension,Moderate,Moderate,Low_Sodium,Peanuts,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+34,Female,91.6,189,25.6,Hypertension,Severe,Active,,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+79,Male,58.7,160,22.9,Diabetes,Severe,Moderate,,Gluten,Italian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+28,Female,84.1,193,22.6,Hypertension,Moderate,Sedentary,Low_Sugar,Peanuts,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+56,Female,83.2,183,24.8,Hypertension,Severe,Active,Low_Sodium,Gluten,Italian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+30,Male,60.5,152,26.2,Diabetes,Moderate,Sedentary,,,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+46,Female,88.5,162,33.7,Diabetes,Severe,Moderate,Low_Sodium,Peanuts,Mexican,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+77,Female,108.8,177,34.7,Hypertension,Severe,Active,,Gluten,Mexican,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+79,Male,105.0,181,32.1,Obesity,Severe,Moderate,,,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+51,Male,69.8,195,18.4,,Severe,Moderate,Low_Sodium,,Mexican,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+23,Male,50.9,167,18.3,Obesity,Mild,Moderate,Low_Sodium,,Italian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+76,Female,76.2,175,24.9,Obesity,Moderate,Active,Low_Sugar,Peanuts,Italian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+33,Male,98.0,176,31.6,Hypertension,Moderate,Sedentary,Low_Sodium,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+47,Female,70.8,194,18.8,Hypertension,Severe,Active,Low_Sodium,Gluten,Mexican,"This is a customized plan based on your profile:
+low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+55,Female,53.1,158,21.3,Hypertension,Moderate,Active,Low_Sodium,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+54,Male,93.4,183,27.9,Hypertension,Mild,Active,,Gluten,Mexican,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+56,Male,105.9,188,30.0,Diabetes,Moderate,Sedentary,,,Chinese,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+45,Male,108.3,172,36.6,,Severe,Active,Low_Sodium,Peanuts,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+72,Male,63.3,198,16.1,Obesity,Severe,Moderate,Low_Sugar,Gluten,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+52,Female,65.9,152,28.5,Diabetes,Severe,Moderate,,Gluten,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+43,Male,87.8,190,24.3,,Moderate,Moderate,Low_Sugar,,Mexican,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+65,Female,94.0,198,24.0,Hypertension,Severe,Moderate,,Peanuts,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+36,Male,61.3,172,20.7,Diabetes,Mild,Moderate,Low_Sodium,,Chinese,"This is a customized plan based on your profile:
+low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+75,Female,59.7,188,16.9,Hypertension,Moderate,Active,Low_Sodium,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+43,Female,80.7,156,33.2,Diabetes,Mild,Active,Low_Sugar,,Indian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+67,Female,92.2,157,37.4,Obesity,Severe,Active,Low_Sodium,,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+23,Female,88.0,184,26.0,Obesity,Severe,Moderate,,Peanuts,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+41,Male,61.3,182,18.5,,Mild,Active,Low_Sodium,,Indian,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+74,Male,95.6,161,36.9,Diabetes,Moderate,Active,Low_Sodium,,Italian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+50,Female,88.0,172,29.7,Obesity,Mild,Sedentary,,Peanuts,Chinese,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+77,Male,98.7,157,40.0,Hypertension,Moderate,Sedentary,Low_Sodium,Peanuts,Mexican,"This is a customized plan based on your profile:
+low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 20-30 minutes of light walking daily to maintain mobility.
+- Sleep: Aim for 7-8 hours per night."
+62,Female,60.9,180,18.8,Hypertension,Moderate,Sedentary,Low_Sodium,,Indian,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+20,Male,86.9,153,37.1,Hypertension,Severe,Active,Low_Sodium,Gluten,Mexican,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+77,Male,77.9,195,20.5,,Severe,Moderate,Low_Sugar,Peanuts,Indian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+50,Male,100.7,185,29.4,Obesity,Severe,Moderate,Low_Sodium,Gluten,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+32,Male,51.3,184,15.2,Diabetes,Moderate,Moderate,,,Italian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+69,Female,67.9,158,27.2,Diabetes,Severe,Moderate,,,Italian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+33,Female,85.4,160,33.4,,Mild,Active,,Gluten,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+57,Male,107.6,177,34.3,Hypertension,Severe,Active,Low_Sodium,Gluten,Chinese,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+75,Female,108.1,150,48.0,Hypertension,Mild,Moderate,Low_Sugar,Gluten,Indian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+52,Male,81.5,156,33.5,Diabetes,Moderate,Active,Low_Sugar,Gluten,Italian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+24,Male,56.1,189,15.7,,Mild,Active,,Peanuts,Indian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+22,Male,68.9,152,29.8,Obesity,Mild,Active,Low_Sodium,Gluten,Indian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+61,Male,111.7,192,30.3,Obesity,Mild,Moderate,Low_Sodium,,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+52,Male,56.8,150,25.2,Diabetes,Moderate,Moderate,,,Mexican,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+19,Female,50.6,164,18.8,Obesity,Moderate,Active,Low_Sodium,Gluten,Italian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+25,Female,119.4,174,39.4,Hypertension,Severe,Moderate,Low_Sodium,Gluten,Chinese,"This is a customized plan based on your profile:
+low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+52,Male,93.0,182,28.1,,Moderate,Active,,Gluten,Indian,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+25,Female,118.6,192,32.2,Obesity,Moderate,Moderate,,Gluten,Mexican,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Scrambled egg whites with avocado and black beans
+- Lunch: Chicken fajita bowl with grilled veggies and cauliflower rice (low-fat)
+- Dinner: Grilled fish tacos in lettuce wraps with salsa
+- Snacks: Bell pepper sticks or low-fat cheese
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+27,Male,50.9,165,18.7,Diabetes,Mild,Moderate,,Peanuts,Indian,"low sugar and high fiber meals. Caloric intake: about 1600-2000 kcal per day
+
+Meal Suggestions:
+- Breakfast: Oatmeal with skim milk, a boiled egg, and apple slices
+- Lunch: Grilled chicken breast, quinoa, and steamed vegetables
+- Dinner: Baked salmon, sweet potato, and a mixed green salad
+- Snacks: Nuts, Greek yogurt, or carrot sticks
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+47,Female,107.3,152,46.4,Diabetes,Mild,Moderate,Low_Sugar,,Italian,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of cardio or resistance training 4-5 days per week.
+- Sleep: Aim for 7-9 hours per night."
+21,Male,59.2,171,20.2,Hypertension,Moderate,Sedentary,Low_Sugar,Peanuts,Chinese,"low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+68,Female,64.0,190,17.7,Hypertension,Moderate,Moderate,,Gluten,Mexican,"This is a customized plan based on your profile:
+low sodium and potassium-rich meals. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Breakfast burrito with egg and veggies on whole wheat tortilla
+- Lunch: Grilled chicken quesadilla with beans and salad
+- Dinner: Beef tacos with avocado and rice
+- Snacks: Corn chips with guacamole
+
+Lifestyle Tips:
+- Exercise: 30-45 minutes of flexibility and balance exercises like yoga or walking.
+- Sleep: Aim for 7-8 hours per night."
+71,Female,72.6,150,32.3,Hypertension,Mild,Active,,,Italian,"low sodium and potassium-rich meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Whole wheat toast with avocado and herbal tea
+- Lunch: Grilled chicken with tomato-basil sauce and whole wheat pasta (low-sodium)
+- Dinner: Baked eggplant with herbs and olive oil, side salad
+- Snacks: Unsalted nuts or cherry tomatoes
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+43,Male,91.2,179,28.5,,Moderate,Sedentary,,,Chinese,"balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 30 minutes of walking 5 days a week.
+- Sleep: Aim for 7-9 hours per night."
+53,Female,81.0,175,26.4,,Severe,Active,,,Chinese,"This is a customized plan based on your profile:
+balanced meals with lean protein, whole grains, and vegetables. Caloric intake: about 2000-2200 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Rice porridge with boiled egg and green tea
+- Lunch: Chicken stir-fry with vegetables and jasmine rice
+- Dinner: Grilled shrimp with broccoli and soba noodles
+- Snacks: Rice crackers or fresh fruit
+
+Lifestyle Tips:
+- Exercise: 60 minutes of high-intensity workouts or gym training 5-6 days per week.
+- Sleep: Aim for 7-9 hours per night."
+71,Female,118.7,160,46.4,Diabetes,Moderate,Active,Low_Sodium,,Chinese,"low sugar and high fiber meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Steamed egg with whole grain toast and unsweetened soy milk
+- Lunch: Stir-fried vegetables with tofu and brown rice (low-sugar sauce)
+- Dinner: Steamed fish with garlic bok choy and brown noodles
+- Snacks: Edamame or cucumber slices
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
+78,Male,117.0,164,43.5,Obesity,Severe,Active,,Peanuts,Italian,"low fat, high protein meals. Caloric intake: around 1500-1800 kcal per day.
+
+Meal Suggestions:
+- Breakfast: Greek yogurt with berries and oats
+- Lunch: Turkey panini with mozzarella and whole grain bread
+- Dinner: Baked salmon with roasted vegetables and pasta
+- Snacks: Mixed nuts or fruit
+
+Lifestyle Tips:
+- Exercise: 45 minutes of moderate activity like swimming or cycling.
+- Sleep: Aim for 7-8 hours per night."
