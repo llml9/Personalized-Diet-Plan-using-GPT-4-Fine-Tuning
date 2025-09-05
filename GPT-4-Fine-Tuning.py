@@ -93,7 +93,7 @@ from openai import OpenAI
 from time import sleep
 
 # Initialize OpenAI client
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "add your key")
 
 def upload_training_file(file_path):
     """Upload training file to OpenAI"""
@@ -182,7 +182,7 @@ result.content
 # 
 # import openai
 # 
-# openai.api_key = "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"
+# openai.api_key = "add your key"
 # 
 # 
 # 
@@ -256,7 +256,7 @@ with open(validation_path, "r", encoding="utf-8") as f:
             prompts.append(user_msg)
             references.append(assistant_msg)
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="add your key")
 
 predictions = []
 
@@ -313,7 +313,7 @@ with open(test_path, "r", encoding="utf-8") as f:
             elif msg["role"] == "assistant":
                 referencesTest.append(msg["content"])
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="add your key")
 
 predictionsTest = []
 
